@@ -3,7 +3,7 @@
 -- =====================================================
 -- Archivo: analisis_gasto_clientes.sql
 -- Autor: Alfonso Droguett
--- Fecha: [Fecha del proyecto]
+-- Fecha: 2025-11-06
 -- Descripción: Comparación de metodologías SQL para identificar
 --              clientes con gasto superior al promedio
 -- =====================================================
