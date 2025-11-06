@@ -1,2 +1,4 @@
 # sql-tips-semanal
 Tips prácticos de SQL para analistas de datos, BI y reportes.
+
+## Semana 1: CTE vs Subconsulta
