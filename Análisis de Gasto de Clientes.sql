@@ -1,5 +1,5 @@
 -- =====================================================
--- ANÁLISIS DE CLIENTES POR GASTO - MICROPROYECTO SEMANAL
+-- ANÁLISIS DE CLIENTES POR GASTO
 -- =====================================================
 -- Archivo: analisis_gasto_clientes.sql
 -- Autor: Alfonso Droguett
