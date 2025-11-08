@@ -33,9 +33,9 @@ Análisis avanzado de clientes utilizando SQL para identificar patrones de gasto
 
 | Archivo | Descripción |
 |---------|---------|
-| Diagrama ER.png | Modelo entidad-relación |
 | (PostgreSQL +14) Análisis de Gasto de Clientes .sql| Consultas para PostgreSQL |
 | (SQL Server + 2012) Análisis de Gasto de Clientes .sql | Consultas para SQL Server |
+| Diagrama ER.png | Modelo entidad-relación |
 | Documentacion (v1.0).pdf| Documentación técnica |
 | README.md | Este archivo |
 
