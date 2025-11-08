@@ -16,6 +16,6 @@ Tips prácticos de SQL para analistas de datos, BI y reportes.
 
 ---
 
-**Sígueme en LinkedIn:** [Alfonso Droguett](https://www.linkedin.com/in/adroguetth/)
+**Sígueme en LinkedIn:** [Alfonso Droguett](https://www.linkedin.com/in/adroguetth/) |
 **Web:** [adroguett-portfolio.cl/](https://www.adroguett-portfolio.cl/home)
-**#SQL #DataAnalytics #SQLServer #ChileData**
+
