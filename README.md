@@ -39,12 +39,6 @@ Análisis avanzado de clientes utilizando SQL para identificar patrones de gasto
 | Documentacion (v1.0).pdf| Documentación técnica |
 | README.md | Este archivo |
 
-
-- Diagrama ER.png
-- (PostgreSQL +14) Análisis de Gasto de Clientes .sql
-- (SQL Server + 2012) Análisis de Gasto de Clientes .sql --> Consultas para SQL Server
-- documentacion (v1.0).pdf --> Documentación técnica
-
 ## 🏆 Resultados de Negocio
 
 **Segmentación Identificada:**
