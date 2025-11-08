@@ -1,4 +1,4 @@
-# SQL Tips Semanal 🐆
+# SQL Tips 🐆
 
 Tips prácticos de SQL para analistas de datos, BI y reportes.  
 
