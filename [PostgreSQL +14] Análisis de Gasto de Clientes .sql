@@ -115,11 +115,11 @@ ORDER BY gc.total_gastado DESC;
 
 WITH ventas_mensuales AS (
     SELECT
-        DATE_TRUNC('month', fecha) AS mes,
+        DATE_TRUNC('month', fecha_venta) AS mes,
         SUM(monto) AS total_mensual,
         COUNT(*) AS cantidad_ventas
     FROM ventas
-    GROUP BY DATE_TRUNC('month', fecha)
+    GROUP BY DATE_TRUNC('month', fecha_venta)
 ),
 promedio_movil AS (
     SELECT
