@@ -1,9 +1,3 @@
-# sql-tips-semanal 
-Tips prácticos de SQL para analistas de datos, BI y reportes.
-
-## Semana 1: CTE vs Subconsulta
-[Ver análisis en SQL](https://github.com/adroguetth/sql-tips-semanal/blob/cte-vs-subquery/An%C3%A1lisis%20de%20Gasto%20de%20Clientes.sql) | [Documentación PDF] (https://github.com/adroguetth/sql-tips-semanal/blob/cte-vs-subquery/An%C3%A1lisis%20de%20Gasto%20de%20Clientes.sql)
-
 # SQL Tips Semanal 🐆
 
 Tips prácticos de SQL para analistas de datos, BI y reportes.  
@@ -22,5 +16,6 @@ Tips prácticos de SQL para analistas de datos, BI y reportes.
 
 ---
 
-**Sígueme en LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-perfil)  
+**Sígueme en LinkedIn:** [Alfonso Droguett](https://www.linkedin.com/in/adroguetth/)
+**Web:** [adroguett-portfolio.cl/](https://www.adroguett-portfolio.cl/home)
 **#SQL #DataAnalytics #SQLServer #ChileData**
