@@ -37,7 +37,8 @@ Proyecto que demuestra la evolución de consultas SQL, desde subconsultas repeti
 ### 🌐 Conéctate Conmigo
 
 **LinkedIn:** [Alfonso Droguett](https://www.linkedin.com/in/adroguetth/)  
-**Portafolio Web:** [adroguett-portfolio.cl](https://www.adroguett-portfolio.cl/home)
+**Portafolio Web:** [adroguett-portfolio.cl](https://www.adroguett-portfolio.cl/)  
+**Email:** [adroguetth@gmail.com](mailto:adroguetth@gmail.com)
 
 ---
 
